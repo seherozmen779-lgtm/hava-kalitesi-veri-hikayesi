@@ -1,0 +1,89 @@
+﻿yerlesim,pm25,kapsama,istasyon_turu,enlem,boylam,kume_B,rehber_ustu
+Kuyulusebil,3.62,95.0,Background-Rural,38.49,32.46,False,False
+Kumkoy,5.91,88.0,Background-Rural,41.25,29.04,True,True
+Agli,6.18,87.0,Background-Rural,41.68,33.49,False,True
+Eskisehir,6.46,97.0,Background-Urban,39.77,30.5,False,True
+Caycuma,6.91,88.0,Background-Urban,41.42,32.08,True,True
+Cayyolu,7.53,98.0,Background-Urban,39.86,32.64,False,True
+Kirsehir,7.56,98.0,Background-Urban,39.15,34.16,True,True
+Cankiri,8.44,96.0,Background-Urban,40.6,33.62,True,True
+Gaziosmanpasa,8.52,97.0,Background-Urban,39.87,32.86,False,True
+Batikent,8.52,93.0,Background-Urban; Industrial-Urban,39.97,32.74,True,True
+Ilkadim,8.68,98.0,Background-Urban,41.33,36.3,False,True
+Incirli,9.28,98.0,Background-Urban,40.0,32.86,True,True
+Karabuk,9.69,86.0,Industrial-Urban,41.2,32.62,True,True
+Bahcelievler,9.81,76.0,Background-Urban; Traffic-Urban,40.64,30.16,True,True
+Etimesgut,10.02,99.0,Background-Urban; Industrial-Urban,39.97,32.6,False,True
+Kirikkale,10.44,94.0,Background-Urban; Traffic-Urban,39.84,33.51,True,True
+Yozgat,11.13,99.0,Background-Urban,39.82,34.81,True,True
+Giresun,11.23,85.0,Background-Urban,40.91,38.38,False,True
+Tavsanli,11.89,95.0,Background-Urban,39.54,29.49,True,True
+Melikgazi,12.62,90.0,Industrial-Urban,38.74,35.38,False,True
+Armutlu,12.79,98.0,Background-Rural,40.53,28.78,True,True
+Silivri,13.01,99.0,Background-Urban,41.07,28.26,True,True
+Kilimli,13.21,98.0,Background-Urban,41.49,31.84,False,True
+Karaman,13.31,99.0,Background-Urban,37.12,33.13,False,True
+Maslak,13.72,93.0,Traffic-Urban,41.1,29.02,True,True
+Odunpazari,13.92,97.0,Background-Urban; Industrial-Urban; Traffic-Urban,39.75,30.57,True,True
+Ankara,14.02,100.0,Traffic-Urban,39.93,32.86,True,True
+Sorgun,14.16,99.0,Background-Urban,39.81,35.18,True,True
+Safranbolu,14.18,92.0,Background-Urban,41.24,32.67,False,True
+Zonguldak,14.32,96.0,Traffic-Urban,41.45,31.79,True,True
+Altinova,14.57,100.0,Background-Suburban,40.7,29.51,True,True
+Gelibolu,14.57,99.0,Background-Rural,40.4,26.77,True,True
+Bilecik,14.63,100.0,Background-Urban,40.14,29.98,True,True
+Edirne,14.7,100.0,Background-Urban,41.66,26.56,True,True
+Mudurnu,14.77,79.0,Background-Rural,40.6,31.26,False,True
+Ordu,14.89,90.0,Background-Urban,40.97,37.91,False,True
+Merkez,15.01,99.0,Background-Urban,40.14,26.41,True,True
+Degirmendere,15.23,97.0,Background-Urban,40.73,29.79,True,True
+Kutahya,15.28,96.0,Background-Urban; Traffic-Urban,39.42,29.99,True,True
+Etlik,15.37,98.0,Background-Urban,39.97,32.81,True,True
+Sivas,15.68,95.0,Background-Urban; Traffic-Urban,39.75,37.01,False,True
+Kozlu,15.95,98.0,Background-Urban,41.44,31.75,False,True
+Yildiz,16.2,99.0,Background-Urban,41.05,29.01,True,True
+Bartin,16.51,99.0,Background-Urban,41.63,32.34,True,True
+Burdur,16.64,96.0,Background-Urban,37.72,30.29,False,True
+Samsun,16.64,95.0,Background-Urban; Traffic-Urban,41.28,36.34,True,True
+Umraniye,16.74,98.0,Background-Urban; Traffic-Urban,41.02,29.13,True,True
+Kepez,16.79,100.0,Background-Urban,36.91,30.7,True,True
+Eminonu,16.99,94.0,Traffic-Urban,41.0,28.98,False,True
+Salacak,17.12,90.0,Background-Urban,41.0,29.03,True,True
+Bolu,17.44,98.0,Background-Urban; Traffic-Urban,40.73,31.6,True,True
+Sisli,17.63,98.0,Background-Urban; Traffic-Urban,41.07,28.97,True,True
+Balikesir,17.79,97.0,Background-Urban; Traffic-Urban,39.64,27.89,True,True
+Icmeler,17.82,95.0,Background-Urban,40.84,29.3,True,True
+Arnavutkoy,18.61,94.0,Background-Suburban,41.22,28.71,True,True
+Erzurum,18.85,99.0,Traffic-Urban,39.91,41.27,True,True
+Mebusevleri,19.07,98.0,Traffic-Urban,39.94,32.85,False,True
+Esenler,19.4,97.0,Background-Urban,41.04,28.89,True,True
+Yakuplu,19.41,98.0,Background-Urban,40.99,28.73,True,True
+Korfez,19.55,98.0,Industrial-Urban,40.75,29.79,True,True
+Corlu,19.66,98.0,Background-Urban; Industrial-Suburban,41.17,27.81,True,True
+Kars,19.68,94.0,Background-Urban; Traffic-Urban,40.6,43.1,False,True
+Aksaray,19.86,99.0,Background-Urban,38.36,34.03,True,True
+Gorukle,20.01,99.0,Background-Rural,40.22,28.87,True,True
+Tokat,20.34,96.0,Background-Urban; Traffic-Urban,40.32,36.55,True,True
+Sultangazi,20.36,92.0,Background-Urban,41.1,28.87,True,True
+Adapazari,20.69,98.0,Traffic-Urban,40.78,30.4,True,True
+Yalova,20.78,99.0,Background-Urban,40.65,29.26,True,True
+Trabzon,20.83,92.0,Background-Urban; Traffic-Urban,41.0,39.7,True,True
+Erzincan,21.09,97.0,Background-Urban; Traffic-Urban,39.74,39.5,True,True
+Corum,21.26,98.0,Background-Urban; Industrial-Urban; Traffic-Urban,40.54,34.96,True,True
+Levent,21.35,89.0,Background-Urban,41.09,28.98,False,True
+Selcuklu,21.58,93.0,Background-Urban; Traffic-Urban,37.9,32.5,False,True
+Erenler,21.68,99.0,Background-Urban,40.77,30.39,True,True
+Cayirova,21.77,97.0,Industrial-Suburban,40.85,29.43,True,True
+Izmit,22.89,99.0,Background-Urban; Traffic-Urban,40.77,29.94,True,True
+Pendik,22.9,96.0,Background-Urban,40.89,29.21,True,True
+Kastamonu,23.02,95.0,Background-Urban,41.37,33.76,True,True
+Osmangazi,23.26,98.0,"Background,Traffic-Urban; Background-Suburban",40.22,29.04,True,True
+Karatay,23.4,98.0,Background-Urban; Industrial-Urban,37.87,32.52,True,True
+Tekirdag,23.72,85.0,Background-Urban; Traffic-Urban,40.98,27.51,True,True
+Istanbul,24.72,96.0,Traffic-Urban,41.01,28.95,True,True
+Amasya,24.98,94.0,Background-Urban; Traffic-Urban,40.66,35.84,True,True
+Bozuyuk,25.52,99.0,Background-Urban,39.9,30.05,True,True
+Aralik,27.27,88.0,Background-Rural,39.79,44.62,True,True
+Duzce,27.28,98.0,Background-Urban; Traffic-Urban,40.84,31.16,False,True
+Mamak,32.57,97.0,Background-Urban; Industrial-Urban,39.94,32.92,True,True
+Igdir,50.28,90.0,Background-Urban,39.93,44.05,False,True

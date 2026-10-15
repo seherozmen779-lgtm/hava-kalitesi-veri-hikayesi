@@ -1,0 +1,632 @@
+﻿yerlesim,yil,pm25,kapsama,istasyon_turu,enlem,boylam,kume_A,kume_B
+Adalar,2016,3.54,96.0,Background-Rural,40.86,29.12,False,False
+Adana,2023,23.3,79.0,Background-Urban; Traffic-Urban,36.99,35.33,False,False
+Adapazari,2015,35.68,96.0,Traffic-Urban,40.78,30.4,True,True
+Adapazari,2016,31.07,100.0,Traffic-Urban,40.78,30.4,True,True
+Adapazari,2017,32.67,100.0,Traffic-Urban,40.78,30.4,True,True
+Adapazari,2018,28.56,96.0,Traffic-Urban,40.78,30.4,True,True
+Adapazari,2019,23.27,96.0,Traffic-Urban,40.78,30.4,True,True
+Adapazari,2020,23.49,94.0,Traffic-Urban,40.78,30.4,True,True
+Adapazari,2021,22.8,95.0,Traffic-Urban,40.78,30.4,True,True
+Adapazari,2022,19.79,94.0,Traffic-Urban,40.78,30.4,True,True
+Adapazari,2023,22.74,98.0,Traffic-Urban,40.78,30.4,True,True
+Adapazari,2024,20.69,98.0,Traffic-Urban,40.78,30.4,True,True
+Agli,2023,5.18,94.0,Background-Rural,41.68,33.49,False,False
+Agli,2024,6.18,87.0,Background-Rural,41.68,33.49,False,False
+Akcaova,2015,15.46,89.0,Background-Rural,41.13,30.01,True,False
+Akcaova,2016,13.09,99.0,Background-Rural,41.13,30.01,True,False
+Akcaova,2017,19.39,90.0,Background-Rural,41.13,30.01,True,False
+Akcaova,2018,13.94,91.0,Background-Rural,41.13,30.01,True,False
+Akcaova,2019,13.77,94.0,Background-Rural,41.13,30.01,True,False
+Akcaova,2020,11.32,94.0,Background-Rural,41.13,30.01,True,False
+Akcaova,2021,11.43,96.0,Background-Rural,41.13,30.01,True,False
+Akcaova,2022,11.9,96.0,Background-Rural,41.13,30.01,True,False
+Aksaray,2020,21.51,95.0,Background-Urban,38.36,34.03,False,True
+Aksaray,2021,19.75,98.0,Background-Urban,38.36,34.03,False,True
+Aksaray,2022,21.5,100.0,Background-Urban,38.36,34.03,False,True
+Aksaray,2023,18.85,98.0,Background-Urban,38.36,34.03,False,True
+Aksaray,2024,19.86,99.0,Background-Urban,38.36,34.03,False,True
+Akyazi,2018,39.84,95.0,Industrial-Suburban,40.76,30.65,False,False
+Akyazi,2019,35.15,92.0,Industrial-Suburban,40.76,30.65,False,False
+Akyazi,2020,35.75,95.0,Industrial-Suburban,40.76,30.65,False,False
+Akyazi,2021,38.4,94.0,Industrial-Suburban,40.76,30.65,False,False
+Akyazi,2022,34.4,98.0,Industrial-Suburban,40.76,30.65,False,False
+Altinova,2015,22.97,91.0,Background-Suburban,40.7,29.51,True,True
+Altinova,2016,18.88,100.0,Background-Suburban,40.7,29.51,True,True
+Altinova,2017,19.34,100.0,Background-Suburban,40.7,29.51,True,True
+Altinova,2018,21.2,99.0,Background-Suburban,40.7,29.51,True,True
+Altinova,2019,21.25,99.0,Background-Suburban,40.7,29.51,True,True
+Altinova,2020,17.25,98.0,Background-Suburban,40.7,29.51,True,True
+Altinova,2021,18.1,91.0,Background-Suburban,40.7,29.51,True,True
+Altinova,2022,14.98,95.0,Background-Suburban,40.7,29.51,True,True
+Altinova,2023,14.03,95.0,Background-Suburban,40.7,29.51,True,True
+Altinova,2024,14.57,100.0,Background-Suburban,40.7,29.51,True,True
+Amasya,2016,38.57,100.0,Background-Urban; Traffic-Urban,40.66,35.84,True,True
+Amasya,2017,33.38,100.0,Background-Urban; Traffic-Urban,40.66,35.84,True,True
+Amasya,2018,33.69,92.0,Background-Urban; Traffic-Urban,40.66,35.84,True,True
+Amasya,2019,34.09,97.0,Background-Urban; Traffic-Urban,40.66,35.84,True,True
+Amasya,2020,31.56,96.0,Background-Urban; Traffic-Urban,40.66,35.84,True,True
+Amasya,2021,28.34,92.0,Background-Urban; Traffic-Urban,40.66,35.84,True,True
+Amasya,2022,25.85,98.0,Background-Urban; Traffic-Urban,40.66,35.84,True,True
+Amasya,2023,25.29,97.0,Background-Urban; Traffic-Urban,40.66,35.84,True,True
+Amasya,2024,24.98,94.0,Background-Urban; Traffic-Urban,40.66,35.84,True,True
+Ankara,2015,23.44,81.0,Traffic-Urban,39.93,32.86,True,True
+Ankara,2016,19.6,96.0,Traffic-Urban,39.93,32.86,True,True
+Ankara,2017,23.07,100.0,Traffic-Urban,39.93,32.86,True,True
+Ankara,2019,21.25,94.0,Traffic-Urban,39.93,32.86,True,True
+Ankara,2020,21.14,98.0,Traffic-Urban,39.93,32.86,True,True
+Ankara,2021,18.34,95.0,Traffic-Urban,39.93,32.86,True,True
+Ankara,2022,12.99,97.0,Traffic-Urban,39.93,32.86,True,True
+Ankara,2023,14.14,96.0,Traffic-Urban,39.93,32.86,True,True
+Ankara,2024,14.02,100.0,Traffic-Urban,39.93,32.86,True,True
+Antalya,2023,17.89,94.0,Traffic-Urban,36.89,30.68,False,False
+Aralik,2019,29.47,81.0,Background-Rural,39.79,44.62,False,True
+Aralik,2020,26.89,81.0,Background-Rural,39.79,44.62,False,True
+Aralik,2021,37.02,92.0,Background-Rural,39.79,44.62,False,True
+Aralik,2022,28.2,94.0,Background-Rural,39.79,44.62,False,True
+Aralik,2023,25.33,88.0,Background-Rural,39.79,44.62,False,True
+Aralik,2024,27.27,88.0,Background-Rural,39.79,44.62,False,True
+Ardesen,2018,12.67,83.0,Background-Rural,41.13,41.05,False,False
+Ardesen,2019,14.62,78.0,Background-Rural,41.13,41.05,False,False
+Ardesen,2021,16.22,80.0,Background-Rural,41.13,41.05,False,False
+Ardesen,2022,15.99,91.0,Background-Rural,41.13,41.05,False,False
+Armutlu,2015,18.91,91.0,Background-Rural,40.53,28.78,True,True
+Armutlu,2016,13.84,99.0,Background-Rural,40.53,28.78,True,True
+Armutlu,2017,18.48,100.0,Background-Rural,40.53,28.78,True,True
+Armutlu,2018,13.51,88.0,Background-Rural,40.53,28.78,True,True
+Armutlu,2019,15.67,98.0,Background-Rural,40.53,28.78,True,True
+Armutlu,2020,16.07,85.0,Background-Rural,40.53,28.78,True,True
+Armutlu,2021,13.14,96.0,Background-Rural,40.53,28.78,True,True
+Armutlu,2022,12.91,94.0,Background-Rural,40.53,28.78,True,True
+Armutlu,2023,12.3,95.0,Background-Rural,40.53,28.78,True,True
+Armutlu,2024,12.79,98.0,Background-Rural,40.53,28.78,True,True
+Arnavutkoy,2019,14.25,97.0,Background-Suburban,41.22,28.71,False,True
+Arnavutkoy,2020,13.59,87.0,Background-Suburban,41.22,28.71,False,True
+Arnavutkoy,2021,13.91,96.0,Background-Suburban,41.22,28.71,False,True
+Arnavutkoy,2022,14.25,93.0,Background-Suburban,41.22,28.71,False,True
+Arnavutkoy,2023,17.96,94.0,Background-Suburban,41.22,28.71,False,True
+Arnavutkoy,2024,18.61,94.0,Background-Suburban,41.22,28.71,False,True
+Atalar,2023,25.07,96.0,Industrial-Suburban,36.88,34.81,False,False
+Bagcilar,2019,21.57,97.0,Background-Urban,41.03,28.84,False,True
+Bagcilar,2020,20.72,93.0,Background-Urban,41.03,28.84,False,True
+Bagcilar,2021,18.69,98.0,Background-Urban,41.03,28.84,False,True
+Bagcilar,2022,19.27,99.0,Background-Urban,41.03,28.84,False,True
+Bagcilar,2023,21.68,98.0,Background-Urban,41.03,28.84,False,True
+Bahcelievler,2015,20.52,76.0,Background-Urban; Traffic-Urban,40.64,30.16,True,True
+Bahcelievler,2016,17.8,99.0,Background-Urban; Traffic-Urban,40.64,30.16,True,True
+Bahcelievler,2017,22.46,91.0,Background-Urban; Traffic-Urban,40.64,30.16,True,True
+Bahcelievler,2019,13.7,90.0,Background-Urban; Traffic-Urban,40.64,30.16,True,True
+Bahcelievler,2020,18.23,92.0,Background-Urban; Traffic-Urban,40.64,30.16,True,True
+Bahcelievler,2021,17.47,86.0,Background-Urban; Traffic-Urban,40.64,30.16,True,True
+Bahcelievler,2022,15.83,85.0,Background-Urban; Traffic-Urban,40.64,30.16,True,True
+Bahcelievler,2023,8.56,92.0,Background-Urban; Traffic-Urban,40.64,30.16,True,True
+Bahcelievler,2024,9.81,76.0,Background-Urban; Traffic-Urban,40.64,30.16,True,True
+Balikesir,2019,17.82,95.0,Background-Urban; Traffic-Urban,39.64,27.89,False,True
+Balikesir,2020,15.29,96.0,Background-Urban; Traffic-Urban,39.64,27.89,False,True
+Balikesir,2021,15.0,94.0,Background-Urban; Traffic-Urban,39.64,27.89,False,True
+Balikesir,2022,16.21,96.0,Background-Urban; Traffic-Urban,39.64,27.89,False,True
+Balikesir,2023,17.52,95.0,Background-Urban; Traffic-Urban,39.64,27.89,False,True
+Balikesir,2024,17.79,97.0,Background-Urban; Traffic-Urban,39.64,27.89,False,True
+Bartin,2019,26.9,84.0,Background-Urban,41.63,32.34,False,True
+Bartin,2020,24.86,99.0,Background-Urban,41.63,32.34,False,True
+Bartin,2021,23.31,98.0,Background-Urban,41.63,32.34,False,True
+Bartin,2022,23.33,83.0,Background-Urban,41.63,32.34,False,True
+Bartin,2023,18.4,98.0,Background-Urban,41.63,32.34,False,True
+Bartin,2024,16.51,99.0,Background-Urban,41.63,32.34,False,True
+Batikent,2020,20.98,83.0,Background-Urban; Industrial-Urban,39.97,32.74,False,True
+Batikent,2021,16.16,84.0,Background-Urban; Industrial-Urban,39.97,32.74,False,True
+Batikent,2022,13.89,95.0,Background-Urban; Industrial-Urban,39.97,32.74,False,True
+Batikent,2023,14.88,99.0,Background-Urban; Industrial-Urban,39.97,32.74,False,True
+Batikent,2024,8.52,93.0,Background-Urban; Industrial-Urban,39.97,32.74,False,True
+Bilecik,2019,11.45,95.0,Background-Urban,40.14,29.98,False,True
+Bilecik,2020,9.28,94.0,Background-Urban,40.14,29.98,False,True
+Bilecik,2021,11.96,98.0,Background-Urban,40.14,29.98,False,True
+Bilecik,2022,12.15,97.0,Background-Urban,40.14,29.98,False,True
+Bilecik,2023,14.63,99.0,Background-Urban,40.14,29.98,False,True
+Bilecik,2024,14.63,100.0,Background-Urban,40.14,29.98,False,True
+Bolu,2019,24.4,87.0,Background-Urban,40.73,31.6,False,True
+Bolu,2021,19.28,88.0,Background-Urban; Traffic-Urban,40.73,31.6,False,True
+Bolu,2022,21.54,93.0,Background-Urban; Traffic-Urban,40.73,31.6,False,True
+Bolu,2023,19.19,96.0,Background-Urban; Traffic-Urban,40.73,31.6,False,True
+Bolu,2024,17.44,98.0,Background-Urban; Traffic-Urban,40.73,31.6,False,True
+Bozuyuk,2019,23.6,100.0,Background-Urban,39.9,30.05,False,True
+Bozuyuk,2020,21.36,96.0,Background-Urban,39.9,30.05,False,True
+Bozuyuk,2021,20.84,97.0,Background-Urban,39.9,30.05,False,True
+Bozuyuk,2022,19.27,96.0,Background-Urban,39.9,30.05,False,True
+Bozuyuk,2023,24.69,98.0,Background-Urban,39.9,30.05,False,True
+Bozuyuk,2024,25.52,99.0,Background-Urban,39.9,30.05,False,True
+Burdur,2020,25.38,96.0,Background-Urban,37.72,30.29,False,False
+Burdur,2022,23.12,96.0,Background-Urban,37.72,30.29,False,False
+Burdur,2023,19.59,94.0,Background-Urban,37.72,30.29,False,False
+Burdur,2024,16.64,96.0,Background-Urban,37.72,30.29,False,False
+Cankaya,2015,27.35,78.0,Traffic-Urban,39.94,32.88,False,False
+Cankaya,2016,29.51,99.0,Traffic-Urban,39.94,32.88,False,False
+Cankaya,2017,25.71,100.0,Traffic-Urban,39.94,32.88,False,False
+Cankiri,2020,19.39,92.0,Background-Urban,40.6,33.62,False,True
+Cankiri,2021,9.28,95.0,Background-Urban,40.6,33.62,False,True
+Cankiri,2022,9.18,94.0,Background-Urban,40.6,33.62,False,True
+Cankiri,2023,7.84,99.0,Background-Urban,40.6,33.62,False,True
+Cankiri,2024,8.44,96.0,Background-Urban,40.6,33.62,False,True
+Catalan,2021,8.73,92.0,Background-Rural,37.19,35.26,False,False
+Catalan,2022,12.01,96.0,Background-Rural,37.19,35.26,False,False
+Caycuma,2020,23.64,86.0,Background-Urban,41.42,32.08,False,True
+Caycuma,2021,25.39,86.0,Background-Urban,41.42,32.08,False,True
+Caycuma,2022,20.35,87.0,Background-Urban,41.42,32.08,False,True
+Caycuma,2023,9.49,80.0,Background-Urban,41.42,32.08,False,True
+Caycuma,2024,6.91,88.0,Background-Urban,41.42,32.08,False,True
+Cayirova,2018,22.39,99.0,Industrial-Suburban,40.85,29.43,False,True
+Cayirova,2019,19.68,97.0,Industrial-Suburban,40.85,29.43,False,True
+Cayirova,2020,19.82,93.0,Industrial-Suburban,40.85,29.43,False,True
+Cayirova,2021,22.84,97.0,Industrial-Suburban,40.85,29.43,False,True
+Cayirova,2022,20.18,89.0,Industrial-Suburban,40.85,29.43,False,True
+Cayirova,2023,22.37,99.0,Industrial-Suburban,40.85,29.43,False,True
+Cayirova,2024,21.77,97.0,Industrial-Suburban,40.85,29.43,False,True
+Cayyolu,2020,15.46,91.0,Background-Urban,39.86,32.64,False,False
+Cayyolu,2022,10.5,88.0,Background-Urban,39.86,32.64,False,False
+Cayyolu,2023,6.51,94.0,Background-Urban,39.86,32.64,False,False
+Cayyolu,2024,7.53,98.0,Background-Urban,39.86,32.64,False,False
+Corlu,2018,21.09,97.0,Background-Urban; Industrial-Suburban,41.17,27.81,False,True
+Corlu,2019,22.98,97.0,Background-Urban; Industrial-Suburban,41.17,27.81,False,True
+Corlu,2020,22.1,96.0,Background-Urban; Industrial-Suburban,41.17,27.81,False,True
+Corlu,2021,23.02,88.0,Background-Urban; Industrial-Suburban,41.17,27.81,False,True
+Corlu,2022,25.45,98.0,Background-Urban; Industrial-Suburban,41.17,27.81,False,True
+Corlu,2024,19.66,98.0,Background-Urban; Industrial-Suburban,41.17,27.81,False,True
+Corum,2016,30.16,100.0,Background-Urban; Industrial-Urban; Traffic-Urban,40.54,34.96,True,True
+Corum,2017,30.5,96.0,Background-Urban; Industrial-Urban; Traffic-Urban,40.54,34.96,True,True
+Corum,2018,25.19,92.0,Background-Urban; Industrial-Urban; Traffic-Urban,40.54,34.96,True,True
+Corum,2020,37.45,87.0,Background-Urban; Industrial-Urban; Traffic-Urban,40.54,34.96,True,True
+Corum,2021,30.77,94.0,Background-Urban; Industrial-Urban; Traffic-Urban,40.54,34.96,True,True
+Corum,2022,23.83,97.0,Background-Urban; Industrial-Urban; Traffic-Urban,40.54,34.96,True,True
+Corum,2023,23.48,95.0,Background-Urban; Industrial-Urban; Traffic-Urban,40.54,34.96,True,True
+Corum,2024,21.26,98.0,Background-Urban; Industrial-Urban; Traffic-Urban,40.54,34.96,True,True
+Degirmendere,2015,20.83,96.0,Background-Urban,40.73,29.79,True,True
+Degirmendere,2016,17.75,100.0,Background-Urban,40.73,29.79,True,True
+Degirmendere,2017,23.08,93.0,Background-Urban,40.73,29.79,True,True
+Degirmendere,2018,21.14,99.0,Background-Urban,40.73,29.79,True,True
+Degirmendere,2019,22.33,90.0,Background-Urban,40.73,29.79,True,True
+Degirmendere,2020,17.57,97.0,Background-Urban,40.73,29.79,True,True
+Degirmendere,2021,17.88,96.0,Background-Urban,40.73,29.79,True,True
+Degirmendere,2022,20.25,96.0,Background-Urban,40.73,29.79,True,True
+Degirmendere,2023,17.71,92.0,Background-Urban,40.73,29.79,True,True
+Degirmendere,2024,15.23,97.0,Background-Urban,40.73,29.79,True,True
+Duzce,2019,44.62,81.0,Background-Urban,40.85,31.15,False,False
+Duzce,2023,29.97,96.0,Background-Urban; Traffic-Urban,40.84,31.16,False,False
+Duzce,2024,27.28,98.0,Background-Urban; Traffic-Urban,40.84,31.16,False,False
+Edirne,2015,22.74,91.0,Background-Urban,41.66,26.56,True,True
+Edirne,2016,16.34,100.0,Background-Urban,41.66,26.56,True,True
+Edirne,2017,23.85,99.0,Background-Urban,41.66,26.56,True,True
+Edirne,2019,16.38,96.0,Background-Urban,41.66,26.56,True,True
+Edirne,2020,15.6,93.0,Background-Urban,41.66,26.56,True,True
+Edirne,2021,19.54,93.0,Background-Urban,41.66,26.56,True,True
+Edirne,2022,18.52,94.0,Background-Urban,41.66,26.56,True,True
+Edirne,2024,14.7,100.0,Background-Urban,41.66,26.56,True,True
+Elbistan,2021,29.55,98.0,Background-Urban,38.2,37.2,False,False
+Elbistan,2022,24.39,97.0,Background-Urban,38.2,37.2,False,False
+Elbistan,2023,28.04,95.0,Background-Urban,38.2,37.2,False,False
+Eminonu,2019,21.42,92.0,Traffic-Urban,41.0,28.98,False,False
+Eminonu,2021,17.57,93.0,Traffic-Urban,41.0,28.98,False,False
+Eminonu,2023,17.95,95.0,Traffic-Urban,41.0,28.98,False,False
+Eminonu,2024,16.99,94.0,Traffic-Urban,41.0,28.98,False,False
+Erenler,2019,21.54,98.0,Background-Urban,40.77,30.39,False,True
+Erenler,2020,20.37,96.0,Background-Urban,40.77,30.39,False,True
+Erenler,2021,19.96,100.0,Background-Urban,40.77,30.39,False,True
+Erenler,2022,19.33,99.0,Background-Urban,40.77,30.39,False,True
+Erenler,2023,16.97,99.0,Background-Urban,40.77,30.39,False,True
+Erenler,2024,21.68,99.0,Background-Urban,40.77,30.39,False,True
+Erzincan,2018,28.82,89.0,Background-Urban; Traffic-Urban,39.74,39.5,False,True
+Erzincan,2020,26.31,85.0,Background-Urban; Traffic-Urban,39.74,39.5,False,True
+Erzincan,2021,30.1,95.0,Background-Urban; Traffic-Urban,39.74,39.5,False,True
+Erzincan,2022,25.2,85.0,Background-Urban; Traffic-Urban,39.74,39.5,False,True
+Erzincan,2023,24.44,98.0,Background-Urban; Traffic-Urban,39.74,39.5,False,True
+Erzincan,2024,21.09,97.0,Background-Urban; Traffic-Urban,39.74,39.5,False,True
+Erzurum,2018,41.98,95.0,Traffic-Urban,39.91,41.27,False,True
+Erzurum,2019,53.78,97.0,Traffic-Urban,39.91,41.27,False,True
+Erzurum,2020,32.74,89.0,Traffic-Urban,39.91,41.27,False,True
+Erzurum,2021,34.63,98.0,Traffic-Urban,39.91,41.27,False,True
+Erzurum,2022,23.28,98.0,Traffic-Urban,39.91,41.27,False,True
+Erzurum,2023,14.47,98.0,Traffic-Urban,39.91,41.27,False,True
+Erzurum,2024,18.85,99.0,Traffic-Urban,39.91,41.27,False,True
+Esenler,2016,12.84,96.0,Background-Urban,41.04,28.89,True,True
+Esenler,2017,23.11,100.0,Background-Urban,41.04,28.89,True,True
+Esenler,2018,25.9,89.0,Background-Urban,41.04,28.89,True,True
+Esenler,2019,22.84,96.0,Background-Urban,41.04,28.89,True,True
+Esenler,2020,20.01,99.0,Background-Urban,41.04,28.89,True,True
+Esenler,2021,19.83,100.0,Background-Urban,41.04,28.89,True,True
+Esenler,2022,22.58,100.0,Background-Urban,41.04,28.89,True,True
+Esenler,2023,20.34,98.0,Background-Urban,41.04,28.89,True,True
+Esenler,2024,19.4,97.0,Background-Urban,41.04,28.89,True,True
+Esenyurt,2016,7.27,96.0,Background-Urban,41.02,28.67,False,False
+Eskisehir,2022,12.06,84.0,Background-Urban,39.76,30.5,False,False
+Eskisehir,2023,8.66,97.0,Background-Urban,39.77,30.5,False,False
+Eskisehir,2024,6.46,97.0,Background-Urban,39.77,30.5,False,False
+Etimesgut,2015,11.2,94.0,Background-Urban,39.97,32.59,False,False
+Etimesgut,2016,13.75,96.0,Background-Urban,39.97,32.59,False,False
+Etimesgut,2017,21.32,100.0,Background-Urban,39.97,32.59,False,False
+Etimesgut,2020,16.75,84.0,Background-Urban; Industrial-Urban,39.97,32.6,False,False
+Etimesgut,2022,14.64,91.0,Background-Urban; Industrial-Urban,39.97,32.6,False,False
+Etimesgut,2023,13.28,96.0,Background-Urban; Industrial-Urban,39.97,32.6,False,False
+Etimesgut,2024,10.02,99.0,Background-Urban; Industrial-Urban,39.97,32.6,False,False
+Etlik,2015,23.32,89.0,Background-Urban,39.97,32.8,True,True
+Etlik,2016,24.57,96.0,Background-Urban,39.97,32.8,True,True
+Etlik,2017,22.22,100.0,Background-Urban,39.97,32.8,True,True
+Etlik,2020,17.18,95.0,Background-Urban,39.97,32.81,True,True
+Etlik,2021,14.79,84.0,Background-Urban,39.97,32.81,True,True
+Etlik,2022,15.89,89.0,Background-Urban,39.97,32.81,True,True
+Etlik,2023,13.71,97.0,Background-Urban,39.97,32.81,True,True
+Etlik,2024,15.37,98.0,Background-Urban,39.97,32.81,True,True
+Gaziantep,2023,43.11,95.0,Background-Urban,37.04,37.4,False,False
+Gaziosmanpasa,2016,19.65,96.0,Background-Urban,39.9,32.84,False,False
+Gaziosmanpasa,2017,21.41,97.0,Background-Urban,39.9,32.84,False,False
+Gaziosmanpasa,2023,5.21,97.0,Background-Urban,39.87,32.86,False,False
+Gaziosmanpasa,2024,8.52,97.0,Background-Urban,39.87,32.86,False,False
+Gecitli,2023,19.81,97.0,Industrial-Suburban,36.96,35.61,False,False
+Gelibolu,2015,16.87,92.0,Background-Rural,40.4,26.77,True,True
+Gelibolu,2016,13.17,100.0,Background-Rural,40.4,26.77,True,True
+Gelibolu,2017,18.89,100.0,Background-Rural,40.4,26.77,True,True
+Gelibolu,2018,18.4,93.0,Background-Rural,40.4,26.77,True,True
+Gelibolu,2019,17.75,93.0,Background-Rural,40.4,26.77,True,True
+Gelibolu,2020,13.57,94.0,Background-Rural,40.4,26.77,True,True
+Gelibolu,2021,13.45,91.0,Background-Rural,40.4,26.77,True,True
+Gelibolu,2022,8.16,93.0,Background-Rural,40.4,26.77,True,True
+Gelibolu,2023,14.55,96.0,Background-Rural,40.4,26.77,True,True
+Gelibolu,2024,14.57,99.0,Background-Rural,40.4,26.77,True,True
+Giresun,2015,27.84,78.0,Background-Urban,40.91,38.38,False,False
+Giresun,2016,21.0,100.0,Background-Urban,40.91,38.38,False,False
+Giresun,2017,17.42,100.0,Background-Urban,40.91,38.38,False,False
+Giresun,2019,21.78,92.0,Background-Urban,40.91,38.38,False,False
+Giresun,2022,14.07,92.0,Background-Urban,40.91,38.38,False,False
+Giresun,2023,12.26,87.0,Background-Urban,40.91,38.38,False,False
+Giresun,2024,11.23,85.0,Background-Urban,40.91,38.38,False,False
+Gorukle,2015,29.62,98.0,Background-Rural,40.22,28.87,True,True
+Gorukle,2016,23.49,100.0,Background-Rural,40.22,28.87,True,True
+Gorukle,2017,28.48,94.0,Background-Rural,40.22,28.87,True,True
+Gorukle,2018,27.13,99.0,Background-Rural,40.22,28.87,True,True
+Gorukle,2019,25.98,98.0,Background-Rural,40.22,28.87,True,True
+Gorukle,2020,23.96,99.0,Background-Rural,40.22,28.87,True,True
+Gorukle,2021,23.54,96.0,Background-Rural,40.22,28.87,True,True
+Gorukle,2022,21.29,97.0,Background-Rural,40.22,28.87,True,True
+Gorukle,2023,21.51,99.0,Background-Rural,40.22,28.87,True,True
+Gorukle,2024,20.01,99.0,Background-Rural,40.22,28.87,True,True
+Hidirbey,2021,27.76,87.0,Background-Urban,36.21,36.14,False,False
+Hidirbey,2022,26.38,95.0,Background-Urban,36.21,36.14,False,False
+Icmeler,2019,18.13,90.0,Background-Urban,40.84,29.3,False,True
+Icmeler,2020,11.99,87.0,Background-Urban,40.84,29.3,False,True
+Icmeler,2021,13.58,94.0,Background-Urban,40.84,29.3,False,True
+Icmeler,2022,17.23,96.0,Background-Urban,40.84,29.3,False,True
+Icmeler,2023,20.03,96.0,Background-Urban,40.84,29.3,False,True
+Icmeler,2024,17.82,95.0,Background-Urban,40.84,29.3,False,True
+Igdir,2021,67.81,92.0,Background-Urban,39.93,44.05,False,False
+Igdir,2022,52.94,94.0,Background-Urban,39.93,44.05,False,False
+Igdir,2023,47.95,93.0,Background-Urban,39.93,44.05,False,False
+Igdir,2024,50.28,90.0,Background-Urban,39.93,44.05,False,False
+Ilkadim,2016,13.32,100.0,Background-Urban,41.33,36.3,False,False
+Ilkadim,2018,12.54,85.0,Background-Urban,41.33,36.3,False,False
+Ilkadim,2020,12.28,82.0,Background-Urban,41.33,36.3,False,False
+Ilkadim,2022,8.66,83.0,Background-Urban,41.33,36.3,False,False
+Ilkadim,2023,8.75,98.0,Background-Urban,41.33,36.3,False,False
+Ilkadim,2024,8.68,98.0,Background-Urban,41.33,36.3,False,False
+Incirli,2015,12.19,87.0,Background-Urban,39.97,32.86,True,True
+Incirli,2016,13.81,96.0,Background-Urban,39.97,32.86,True,True
+Incirli,2017,19.11,97.0,Background-Urban,39.97,32.86,True,True
+Incirli,2018,16.16,78.0,Background-Urban,40.0,32.86,True,True
+Incirli,2020,13.8,90.0,Background-Urban,40.0,32.86,True,True
+Incirli,2021,13.0,93.0,Background-Urban,40.0,32.86,True,True
+Incirli,2022,10.95,91.0,Background-Urban,40.0,32.86,True,True
+Incirli,2023,11.28,94.0,Background-Urban,40.0,32.86,True,True
+Incirli,2024,9.28,98.0,Background-Urban,40.0,32.86,True,True
+Isparta,2020,25.21,96.0,Background-Urban,37.76,30.58,False,False
+Isparta,2021,20.21,98.0,Background-Urban,37.76,30.58,False,False
+Isparta,2022,17.95,100.0,Background-Urban,37.76,30.58,False,False
+Isparta,2023,16.73,95.0,Background-Urban,37.76,30.58,False,False
+Istanbul,2016,16.81,96.0,Traffic-Urban,41.01,28.95,True,True
+Istanbul,2017,22.2,100.0,Traffic-Urban,41.01,28.95,True,True
+Istanbul,2018,28.78,85.0,Traffic-Urban,41.01,28.95,True,True
+Istanbul,2019,26.37,99.0,Traffic-Urban,41.01,28.95,True,True
+Istanbul,2020,21.39,97.0,Traffic-Urban,41.01,28.95,True,True
+Istanbul,2021,19.88,96.0,Traffic-Urban,41.01,28.95,True,True
+Istanbul,2022,21.26,100.0,Traffic-Urban,41.01,28.95,True,True
+Istanbul,2023,21.81,96.0,Traffic-Urban,41.01,28.95,True,True
+Istanbul,2024,24.72,96.0,Traffic-Urban,41.01,28.95,True,True
+Izmir,2021,19.76,99.0,Background-Urban,38.43,27.14,False,False
+Izmir,2022,28.39,97.0,Background-Urban,38.43,27.14,False,False
+Izmir,2023,24.22,88.0,Background-Urban; Traffic-Urban,38.43,27.14,False,False
+Izmit,2019,19.84,95.0,Background-Urban; Traffic-Urban,40.77,29.94,False,True
+Izmit,2020,18.16,98.0,Background-Urban; Traffic-Urban,40.77,29.94,False,True
+Izmit,2021,18.43,99.0,Background-Urban; Traffic-Urban,40.77,29.94,False,True
+Izmit,2022,19.05,99.0,Background-Urban; Traffic-Urban,40.77,29.94,False,True
+Izmit,2023,19.75,97.0,Background-Urban; Traffic-Urban,40.77,29.94,False,True
+Izmit,2024,22.89,99.0,Background-Urban; Traffic-Urban,40.77,29.94,False,True
+Kapakli,2015,24.45,95.0,Background-Urban,41.32,27.98,True,False
+Kapakli,2016,20.68,100.0,Background-Urban,41.32,27.98,True,False
+Kapakli,2017,24.9,100.0,Background-Urban,41.32,27.98,True,False
+Kapakli,2018,17.43,96.0,Background-Urban,41.32,27.98,True,False
+Kapakli,2019,18.84,89.0,Background-Urban,41.32,27.98,True,False
+Kapakli,2020,18.2,96.0,Background-Urban,41.32,27.98,True,False
+Kapakli,2021,19.54,94.0,Background-Urban,41.32,27.98,True,False
+Kapakli,2022,17.97,95.0,Background-Urban,41.32,27.98,True,False
+Karabuk,2019,22.14,92.0,Background-Urban,41.2,32.62,False,True
+Karabuk,2020,24.21,89.0,Industrial-Urban,41.2,32.62,False,True
+Karabuk,2021,19.11,82.0,Industrial-Urban,41.2,32.62,False,True
+Karabuk,2022,14.75,99.0,Industrial-Urban,41.2,32.62,False,True
+Karabuk,2023,10.85,91.0,Industrial-Urban,41.2,32.62,False,True
+Karabuk,2024,9.69,86.0,Industrial-Urban,41.2,32.62,False,True
+Karaman,2020,19.27,92.0,Background-Urban,37.12,33.13,False,False
+Karaman,2022,15.81,96.0,Background-Urban,37.12,33.13,False,False
+Karaman,2023,14.15,100.0,Background-Urban,37.12,33.13,False,False
+Karaman,2024,13.31,99.0,Background-Urban,37.12,33.13,False,False
+Karatay,2020,31.65,93.0,Background-Urban,37.88,32.52,False,True
+Karatay,2021,33.84,99.0,Background-Urban,37.88,32.52,False,True
+Karatay,2022,32.74,99.0,Background-Urban,37.88,32.52,False,True
+Karatay,2023,33.16,99.0,Background-Urban; Industrial-Urban,37.87,32.52,False,True
+Karatay,2024,23.4,98.0,Background-Urban; Industrial-Urban,37.87,32.52,False,True
+Kars,2020,18.2,79.0,Background-Urban; Traffic-Urban,40.6,43.1,False,False
+Kars,2021,24.29,94.0,Background-Urban; Traffic-Urban,40.6,43.1,False,False
+Kars,2023,16.34,89.0,Background-Urban; Traffic-Urban,40.6,43.1,False,False
+Kars,2024,19.68,94.0,Background-Urban; Traffic-Urban,40.6,43.1,False,False
+Karsiyaka,2021,15.53,100.0,Background-Urban,38.48,27.09,False,False
+Karsiyaka,2022,24.38,100.0,Background-Urban,38.48,27.09,False,False
+Kastamonu,2019,29.24,82.0,Background-Urban,41.37,33.76,False,True
+Kastamonu,2020,21.01,87.0,Background-Urban,41.37,33.76,False,True
+Kastamonu,2021,22.89,92.0,Background-Urban,41.37,33.76,False,True
+Kastamonu,2022,27.27,91.0,Background-Urban,41.37,33.76,False,True
+Kastamonu,2023,22.28,97.0,Background-Urban,41.37,33.76,False,True
+Kastamonu,2024,23.02,95.0,Background-Urban,41.37,33.76,False,True
+Kayseri,2020,25.56,90.0,Traffic-Urban,38.72,35.48,False,False
+Kemalpasa,2018,16.44,83.0,Background-Rural,41.47,41.49,False,False
+Kemalpasa,2022,10.25,78.0,Background-Rural,41.47,41.49,False,False
+Kepez,2020,18.42,93.0,Background-Urban,36.91,30.7,False,True
+Kepez,2021,20.06,93.0,Background-Urban,36.91,30.7,False,True
+Kepez,2022,18.79,97.0,Background-Urban,36.91,30.7,False,True
+Kepez,2023,23.56,100.0,Background-Urban,36.91,30.7,False,True
+Kepez,2024,16.79,100.0,Background-Urban,36.91,30.7,False,True
+Kesan,2015,63.82,90.0,Background-Urban,40.85,26.64,True,False
+Kesan,2016,45.44,98.0,Background-Urban,40.85,26.64,True,False
+Kesan,2017,66.06,95.0,Background-Urban,40.85,26.64,True,False
+Kesan,2018,39.85,96.0,Background-Urban,40.85,26.64,True,False
+Kesan,2019,31.86,98.0,Background-Urban,40.85,26.64,True,False
+Kesan,2020,29.8,99.0,Background-Urban,40.85,26.64,True,False
+Kesan,2021,20.16,95.0,Background-Urban,40.85,26.64,True,False
+Kesan,2022,11.94,97.0,Background-Urban,40.85,26.64,True,False
+Kilimli,2022,15.15,87.0,Background-Urban,41.49,31.84,False,False
+Kilimli,2023,11.14,98.0,Background-Urban,41.49,31.84,False,False
+Kilimli,2024,13.21,98.0,Background-Urban,41.49,31.84,False,False
+Kilis,2021,22.86,90.0,Background-Urban,36.72,37.13,False,False
+Kilis,2022,13.87,80.0,Background-Urban,36.72,37.13,False,False
+Kilis,2023,15.52,96.0,Background-Urban,36.72,37.13,False,False
+Kirikkale,2019,16.54,91.0,Background-Urban,39.84,33.52,False,True
+Kirikkale,2020,17.95,77.0,Background-Urban; Traffic-Urban,39.84,33.51,False,True
+Kirikkale,2021,20.17,84.0,Background-Urban; Traffic-Urban,39.84,33.51,False,True
+Kirikkale,2022,14.49,90.0,Background-Urban; Traffic-Urban,39.84,33.51,False,True
+Kirikkale,2023,11.9,94.0,Background-Urban; Traffic-Urban,39.84,33.51,False,True
+Kirikkale,2024,10.44,94.0,Background-Urban; Traffic-Urban,39.84,33.51,False,True
+Kirklareli,2019,13.05,93.0,Background-Urban,41.72,27.21,False,False
+Kirklareli,2020,11.96,96.0,Background-Urban,41.72,27.21,False,False
+Kirklareli,2021,12.83,96.0,Background-Urban,41.72,27.21,False,False
+Kirklareli,2022,14.97,83.0,Background-Urban,41.72,27.21,False,False
+Kirsehir,2019,15.99,89.0,Background-Urban,39.15,34.16,False,True
+Kirsehir,2020,10.11,93.0,Background-Urban,39.15,34.16,False,True
+Kirsehir,2021,10.99,96.0,Background-Urban,39.15,34.16,False,True
+Kirsehir,2022,10.53,93.0,Background-Urban,39.15,34.16,False,True
+Kirsehir,2023,8.8,98.0,Background-Urban,39.15,34.16,False,True
+Kirsehir,2024,7.56,98.0,Background-Urban,39.15,34.16,False,True
+Korfez,2019,20.27,99.0,Industrial-Urban,40.75,29.79,False,True
+Korfez,2020,17.61,98.0,Industrial-Urban,40.75,29.79,False,True
+Korfez,2021,17.67,97.0,Industrial-Urban,40.75,29.79,False,True
+Korfez,2022,16.79,93.0,Industrial-Urban,40.75,29.79,False,True
+Korfez,2023,18.48,96.0,Industrial-Urban,40.75,29.79,False,True
+Korfez,2024,19.55,98.0,Industrial-Urban,40.75,29.79,False,True
+Kozlu,2021,21.97,86.0,Background-Urban,41.44,31.75,False,False
+Kozlu,2022,18.66,96.0,Background-Urban,41.44,31.75,False,False
+Kozlu,2023,15.24,99.0,Background-Urban,41.44,31.75,False,False
+Kozlu,2024,15.95,98.0,Background-Urban,41.44,31.75,False,False
+Kumkoy,2019,14.24,97.0,Background-Rural,41.25,29.04,False,True
+Kumkoy,2020,12.38,92.0,Background-Rural,41.25,29.04,False,True
+Kumkoy,2021,9.3,95.0,Background-Rural,41.25,29.04,False,True
+Kumkoy,2022,9.69,98.0,Background-Rural,41.25,29.04,False,True
+Kumkoy,2023,5.68,94.0,Background-Rural,41.25,29.04,False,True
+Kumkoy,2024,5.91,88.0,Background-Rural,41.25,29.04,False,True
+Kurttepe,2023,17.23,96.0,Background-Urban,37.04,35.27,False,False
+Kutahya,2019,22.63,89.0,Background-Urban,39.43,29.97,False,True
+Kutahya,2020,19.33,81.0,Background-Urban; Traffic-Urban,39.42,29.99,False,True
+Kutahya,2022,19.99,90.0,Background-Urban; Traffic-Urban,39.42,29.99,False,True
+Kutahya,2023,14.95,96.0,Background-Urban; Traffic-Urban,39.42,29.99,False,True
+Kutahya,2024,15.28,96.0,Background-Urban; Traffic-Urban,39.42,29.99,False,True
+Kuyulusebil,2023,3.21,96.0,Background-Rural,38.49,32.46,False,False
+Kuyulusebil,2024,3.62,95.0,Background-Rural,38.49,32.46,False,False
+Levent,2015,22.53,76.0,Background-Urban,41.09,28.98,False,False
+Levent,2016,9.76,96.0,Background-Urban,41.09,28.98,False,False
+Levent,2019,22.02,95.0,Background-Urban,41.09,28.98,False,False
+Levent,2022,18.99,98.0,Background-Urban,41.09,28.98,False,False
+Levent,2024,21.35,89.0,Background-Urban,41.09,28.98,False,False
+Mamak,2015,19.4,92.0,Background-Urban,39.93,32.93,True,True
+Mamak,2016,17.46,96.0,Background-Urban,39.93,32.93,True,True
+Mamak,2017,27.0,90.0,Background-Urban,39.93,32.93,True,True
+Mamak,2020,41.05,91.0,Background-Urban; Industrial-Urban,39.94,32.92,True,True
+Mamak,2021,44.65,89.0,Background-Urban; Industrial-Urban,39.94,32.92,True,True
+Mamak,2022,36.51,90.0,Background-Urban; Industrial-Urban,39.94,32.92,True,True
+Mamak,2023,33.9,94.0,Background-Urban; Industrial-Urban,39.94,32.92,True,True
+Mamak,2024,32.57,97.0,Background-Urban; Industrial-Urban,39.94,32.92,True,True
+Maslak,2019,20.3,99.0,Traffic-Urban,41.1,29.02,False,True
+Maslak,2020,14.81,96.0,Traffic-Urban,41.1,29.02,False,True
+Maslak,2021,14.4,99.0,Traffic-Urban,41.1,29.02,False,True
+Maslak,2022,16.11,95.0,Traffic-Urban,41.1,29.02,False,True
+Maslak,2023,15.36,100.0,Traffic-Urban,41.1,29.02,False,True
+Maslak,2024,13.72,93.0,Traffic-Urban,41.1,29.02,False,True
+Mebusevleri,2022,20.58,95.0,Traffic-Urban,39.94,32.85,False,False
+Mebusevleri,2023,25.21,93.0,Traffic-Urban,39.94,32.85,False,False
+Mebusevleri,2024,19.07,98.0,Traffic-Urban,39.94,32.85,False,False
+Melikgazi,2022,15.57,93.0,Industrial-Urban,38.74,35.38,False,False
+Melikgazi,2023,15.4,97.0,Industrial-Urban,38.74,35.38,False,False
+Melikgazi,2024,12.62,90.0,Industrial-Urban,38.74,35.38,False,False
+Merkez,2019,16.9,91.0,Background-Urban,40.14,26.41,False,True
+Merkez,2020,13.51,98.0,Background-Urban,40.14,26.41,False,True
+Merkez,2021,13.31,97.0,Background-Urban,40.14,26.41,False,True
+Merkez,2022,13.22,99.0,Background-Urban,40.14,26.41,False,True
+Merkez,2023,13.99,94.0,Background-Urban,40.14,26.41,False,True
+Merkez,2024,15.01,99.0,Background-Urban,40.14,26.41,False,True
+Mudurnu,2024,14.77,79.0,Background-Rural,40.6,31.26,False,False
+Nigde,2020,20.19,88.0,Background-Urban,37.97,34.69,False,False
+Nigde,2021,16.59,76.0,Background-Urban,37.97,34.69,False,False
+Odunpazari,2019,17.33,87.0,Background-Urban,39.76,30.56,False,True
+Odunpazari,2020,18.11,86.0,Background-Urban; Industrial-Urban; Traffic-Urban,39.75,30.57,False,True
+Odunpazari,2021,17.7,85.0,Background-Urban; Industrial-Urban; Traffic-Urban,39.75,30.57,False,True
+Odunpazari,2022,17.94,91.0,Background-Urban; Industrial-Urban; Traffic-Urban,39.75,30.57,False,True
+Odunpazari,2023,13.92,96.0,Background-Urban; Industrial-Urban; Traffic-Urban,39.75,30.57,False,True
+Odunpazari,2024,13.92,97.0,Background-Urban; Industrial-Urban; Traffic-Urban,39.75,30.57,False,True
+Ordu,2016,14.88,99.0,Background-Urban,40.97,37.91,False,False
+Ordu,2017,20.25,91.0,Background-Urban,40.97,37.91,False,False
+Ordu,2018,16.41,90.0,Background-Urban,40.97,37.91,False,False
+Ordu,2021,12.76,91.0,Background-Urban,40.97,37.91,False,False
+Ordu,2022,14.88,92.0,Background-Urban,40.97,37.91,False,False
+Ordu,2023,14.48,87.0,Background-Urban,40.97,37.91,False,False
+Ordu,2024,14.89,90.0,Background-Urban,40.97,37.91,False,False
+Osmangazi,2019,29.84,80.0,"Background,Traffic-Urban; Background-Suburban",40.22,29.04,False,True
+Osmangazi,2020,26.22,80.0,"Background,Traffic-Urban; Background-Suburban",40.22,29.04,False,True
+Osmangazi,2021,27.14,96.0,"Background,Traffic-Urban; Background-Suburban",40.22,29.04,False,True
+Osmangazi,2022,30.04,97.0,"Background,Traffic-Urban; Background-Suburban",40.22,29.04,False,True
+Osmangazi,2023,27.48,94.0,"Background,Traffic-Urban; Background-Suburban",40.22,29.04,False,True
+Osmangazi,2024,23.26,98.0,"Background,Traffic-Urban; Background-Suburban",40.22,29.04,False,True
+Osmaniye,2022,39.51,94.0,Background-Urban,37.09,36.25,False,False
+Osmaniye,2023,38.17,97.0,Background-Urban,37.09,36.25,False,False
+Pendik,2019,26.54,95.0,Background-Urban,40.89,29.21,False,True
+Pendik,2020,20.13,91.0,Background-Urban,40.89,29.21,False,True
+Pendik,2021,24.64,98.0,Background-Urban,40.89,29.21,False,True
+Pendik,2022,25.56,100.0,Background-Urban,40.89,29.21,False,True
+Pendik,2023,28.94,95.0,Background-Urban,40.89,29.21,False,True
+Pendik,2024,22.9,96.0,Background-Urban,40.89,29.21,False,True
+Safranbolu,2020,25.48,87.0,Background-Urban,41.24,32.67,False,False
+Safranbolu,2022,17.94,88.0,Background-Urban,41.24,32.67,False,False
+Safranbolu,2023,12.8,93.0,Background-Urban,41.24,32.67,False,False
+Safranbolu,2024,14.18,92.0,Background-Urban,41.24,32.67,False,False
+Salacak,2016,31.6,96.0,Background-Urban,41.0,29.03,True,True
+Salacak,2017,28.68,75.0,Background-Urban,41.0,29.03,True,True
+Salacak,2018,25.43,95.0,Background-Urban,41.0,29.03,True,True
+Salacak,2019,18.97,98.0,Background-Urban,41.0,29.03,True,True
+Salacak,2020,17.62,87.0,Background-Urban,41.0,29.03,True,True
+Salacak,2021,17.35,98.0,Background-Urban,41.0,29.03,True,True
+Salacak,2022,19.63,83.0,Background-Urban,41.0,29.03,True,True
+Salacak,2023,20.05,96.0,Background-Urban,41.0,29.03,True,True
+Salacak,2024,17.12,90.0,Background-Urban,41.0,29.03,True,True
+Samsun,2016,26.13,100.0,Background-Urban; Traffic-Urban,41.28,36.34,True,True
+Samsun,2017,25.24,96.0,Background-Urban; Traffic-Urban,41.28,36.34,True,True
+Samsun,2018,14.96,96.0,Background-Urban; Traffic-Urban,41.28,36.34,True,True
+Samsun,2019,13.91,99.0,Background-Urban; Traffic-Urban,41.28,36.34,True,True
+Samsun,2020,17.08,93.0,Background-Urban; Traffic-Urban,41.28,36.34,True,True
+Samsun,2021,20.65,97.0,Background-Urban; Traffic-Urban,41.28,36.34,True,True
+Samsun,2022,19.7,99.0,Background-Urban; Traffic-Urban,41.28,36.34,True,True
+Samsun,2023,18.09,94.0,Background-Urban; Traffic-Urban,41.28,36.34,True,True
+Samsun,2024,16.64,95.0,Background-Urban; Traffic-Urban,41.28,36.34,True,True
+Selcuklu,2023,26.51,95.0,Traffic-Urban,37.89,32.49,False,False
+Selcuklu,2024,21.58,93.0,Background-Urban; Traffic-Urban,37.9,32.5,False,False
+Seyhan,2021,21.58,94.0,Background-Urban,37.0,35.31,False,False
+Seyhan,2022,24.6,95.0,Background-Urban,37.0,35.31,False,False
+Silivri,2015,21.01,92.0,Background-Urban,41.07,28.26,True,True
+Silivri,2016,17.26,100.0,Background-Urban,41.07,28.26,True,True
+Silivri,2017,21.07,96.0,Background-Urban,41.07,28.26,True,True
+Silivri,2018,17.83,99.0,Background-Urban,41.07,28.26,True,True
+Silivri,2019,17.6,98.0,Background-Urban,41.07,28.26,True,True
+Silivri,2020,16.37,98.0,Background-Urban,41.07,28.26,True,True
+Silivri,2021,17.46,96.0,Background-Urban,41.07,28.26,True,True
+Silivri,2022,13.29,96.0,Background-Urban,41.07,28.26,True,True
+Silivri,2023,15.72,96.0,Background-Urban,41.07,28.26,True,True
+Silivri,2024,13.01,99.0,Background-Urban,41.07,28.26,True,True
+Sisli,2015,32.73,90.0,Background-Urban; Traffic-Urban,41.07,28.97,True,True
+Sisli,2016,24.15,98.0,Background-Urban; Traffic-Urban,41.07,28.97,True,True
+Sisli,2017,27.79,100.0,Background-Urban; Traffic-Urban,41.07,28.97,True,True
+Sisli,2018,23.43,98.0,Background-Urban; Traffic-Urban,41.07,28.97,True,True
+Sisli,2019,22.95,94.0,Background-Urban; Traffic-Urban,41.07,28.97,True,True
+Sisli,2020,18.34,90.0,Background-Urban; Traffic-Urban,41.07,28.97,True,True
+Sisli,2021,20.66,92.0,Background-Urban; Traffic-Urban,41.07,28.97,True,True
+Sisli,2022,20.93,97.0,Background-Urban; Traffic-Urban,41.07,28.97,True,True
+Sisli,2023,18.82,95.0,Background-Urban; Traffic-Urban,41.07,28.97,True,True
+Sisli,2024,17.63,98.0,Background-Urban; Traffic-Urban,41.07,28.97,True,True
+Sivas,2016,27.05,100.0,Background-Urban; Traffic-Urban,39.75,37.01,False,False
+Sivas,2017,30.54,94.0,Background-Urban; Traffic-Urban,39.75,37.01,False,False
+Sivas,2018,25.18,93.0,Background-Urban; Traffic-Urban,39.75,37.01,False,False
+Sivas,2020,21.22,80.0,Background-Urban; Traffic-Urban,39.75,37.01,False,False
+Sivas,2022,16.3,98.0,Background-Urban; Traffic-Urban,39.75,37.01,False,False
+Sivas,2023,15.28,94.0,Background-Urban; Traffic-Urban,39.75,37.01,False,False
+Sivas,2024,15.68,95.0,Background-Urban; Traffic-Urban,39.75,37.01,False,False
+Soma,2022,18.63,88.0,Background-Urban,39.18,27.61,False,False
+Soma,2023,18.6,97.0,Background-Urban,39.18,27.61,False,False
+Sorgun,2020,14.54,93.0,Background-Urban,39.81,35.18,False,True
+Sorgun,2021,15.43,90.0,Background-Urban,39.81,35.18,False,True
+Sorgun,2022,13.1,94.0,Background-Urban,39.81,35.18,False,True
+Sorgun,2023,15.28,89.0,Background-Urban,39.81,35.18,False,True
+Sorgun,2024,14.16,99.0,Background-Urban,39.81,35.18,False,True
+Sultangazi,2019,18.0,96.0,Background-Urban,41.1,28.87,False,True
+Sultangazi,2020,15.52,96.0,Background-Urban,41.1,28.87,False,True
+Sultangazi,2021,16.71,97.0,Background-Urban,41.1,28.87,False,True
+Sultangazi,2022,16.05,98.0,Background-Urban,41.1,28.87,False,True
+Sultangazi,2023,19.44,98.0,Background-Urban,41.1,28.87,False,True
+Sultangazi,2024,20.36,92.0,Background-Urban,41.1,28.87,False,True
+Tarsus,2023,22.49,87.0,Background-Urban,36.91,34.89,False,False
+Tavsanli,2020,23.12,90.0,Background-Urban; Industrial-Suburban,40.19,29.54,False,True
+Tavsanli,2021,22.28,86.0,Background-Urban,39.54,29.49,False,True
+Tavsanli,2022,17.57,94.0,Background-Urban,39.54,29.49,False,True
+Tavsanli,2023,12.7,99.0,Background-Urban,39.54,29.49,False,True
+Tavsanli,2024,11.89,95.0,Background-Urban,39.54,29.49,False,True
+Tekirdag,2019,18.91,98.0,Background-Urban; Traffic-Urban,40.98,27.51,False,True
+Tekirdag,2020,15.78,95.0,Background-Urban; Traffic-Urban,40.98,27.51,False,True
+Tekirdag,2021,13.35,97.0,Background-Urban; Traffic-Urban,40.98,27.51,False,True
+Tekirdag,2022,12.92,96.0,Background-Urban; Traffic-Urban,40.98,27.51,False,True
+Tekirdag,2023,16.69,94.0,Background-Urban; Traffic-Urban,40.98,27.51,False,True
+Tekirdag,2024,23.72,85.0,Background-Urban; Traffic-Urban,40.98,27.51,False,True
+Tokat,2016,26.13,100.0,Background-Urban; Traffic-Urban,40.32,36.55,True,True
+Tokat,2017,27.43,100.0,Background-Urban; Traffic-Urban,40.32,36.55,True,True
+Tokat,2018,24.13,97.0,Background-Urban; Traffic-Urban,40.32,36.55,True,True
+Tokat,2019,26.88,96.0,Background-Urban; Traffic-Urban,40.32,36.55,True,True
+Tokat,2020,22.92,83.0,Background-Urban; Traffic-Urban,40.32,36.55,True,True
+Tokat,2021,21.1,93.0,Background-Urban; Traffic-Urban,40.32,36.55,True,True
+Tokat,2022,20.65,99.0,Background-Urban; Traffic-Urban,40.32,36.55,True,True
+Tokat,2023,23.63,95.0,Background-Urban; Traffic-Urban,40.32,36.55,True,True
+Tokat,2024,20.34,96.0,Background-Urban; Traffic-Urban,40.32,36.55,True,True
+Trabzon,2018,21.29,91.0,Background-Urban; Traffic-Urban,41.0,39.7,False,True
+Trabzon,2019,22.25,94.0,Background-Urban; Traffic-Urban,41.0,39.7,False,True
+Trabzon,2020,23.5,94.0,Background-Urban; Traffic-Urban,41.0,39.7,False,True
+Trabzon,2021,24.38,86.0,Background-Urban; Traffic-Urban,41.0,39.7,False,True
+Trabzon,2022,19.87,91.0,Background-Urban; Traffic-Urban,41.0,39.7,False,True
+Trabzon,2023,21.31,87.0,Background-Urban; Traffic-Urban,41.0,39.7,False,True
+Trabzon,2024,20.83,92.0,Background-Urban; Traffic-Urban,41.0,39.7,False,True
+Umraniye,2015,26.55,93.0,Background-Urban; Traffic-Urban,41.02,29.13,True,True
+Umraniye,2016,17.3,98.0,Background-Urban; Traffic-Urban,41.02,29.13,True,True
+Umraniye,2017,22.4,92.0,Background-Urban; Traffic-Urban,41.02,29.13,True,True
+Umraniye,2018,22.72,88.0,Background-Urban; Traffic-Urban,41.02,29.13,True,True
+Umraniye,2019,19.0,96.0,Background-Urban; Traffic-Urban,41.02,29.13,True,True
+Umraniye,2020,17.78,92.0,Background-Urban; Traffic-Urban,41.02,29.13,True,True
+Umraniye,2021,18.62,95.0,Background-Urban; Traffic-Urban,41.02,29.13,True,True
+Umraniye,2022,17.57,94.0,Background-Urban; Traffic-Urban,41.02,29.13,True,True
+Umraniye,2023,15.61,96.0,Background-Urban; Traffic-Urban,41.02,29.13,True,True
+Umraniye,2024,16.74,98.0,Background-Urban; Traffic-Urban,41.02,29.13,True,True
+Yakuplu,2019,21.52,92.0,Background-Urban,40.99,28.73,False,True
+Yakuplu,2021,17.99,90.0,Background-Urban,40.99,28.73,False,True
+Yakuplu,2022,17.25,93.0,Background-Urban,40.99,28.73,False,True
+Yakuplu,2023,17.57,97.0,Background-Urban,40.99,28.73,False,True
+Yakuplu,2024,19.41,98.0,Background-Urban,40.99,28.73,False,True
+Yalova,2019,17.1,98.0,Background-Urban,40.65,29.26,False,True
+Yalova,2020,13.75,97.0,Background-Urban,40.65,29.26,False,True
+Yalova,2021,15.69,98.0,Background-Urban,40.65,29.26,False,True
+Yalova,2022,13.18,97.0,Background-Urban,40.65,29.26,False,True
+Yalova,2023,20.31,98.0,Background-Urban,40.65,29.26,False,True
+Yalova,2024,20.78,99.0,Background-Urban,40.65,29.26,False,True
+Yildiz,2016,26.44,96.0,Background-Urban,41.05,29.01,True,True
+Yildiz,2018,22.46,95.0,Background-Urban,41.05,29.01,True,True
+Yildiz,2019,23.87,98.0,Background-Urban,41.05,29.01,True,True
+Yildiz,2020,18.84,94.0,Background-Urban,41.05,29.01,True,True
+Yildiz,2021,17.87,98.0,Background-Urban,41.05,29.01,True,True
+Yildiz,2022,19.47,100.0,Background-Urban,41.05,29.01,True,True
+Yildiz,2023,19.98,98.0,Background-Urban,41.05,29.01,True,True
+Yildiz,2024,16.2,99.0,Background-Urban,41.05,29.01,True,True
+Yozgat,2018,12.57,75.0,Background-Urban,39.82,34.81,False,True
+Yozgat,2019,14.34,94.0,Background-Urban,39.82,34.81,False,True
+Yozgat,2020,12.76,98.0,Background-Urban,39.82,34.81,False,True
+Yozgat,2021,14.93,88.0,Background-Urban,39.82,34.81,False,True
+Yozgat,2022,14.2,93.0,Background-Urban,39.82,34.81,False,True
+Yozgat,2023,13.02,99.0,Background-Urban,39.82,34.81,False,True
+Yozgat,2024,11.13,99.0,Background-Urban,39.82,34.81,False,True
+Zonguldak,2019,19.63,91.0,Traffic-Urban,41.45,31.79,False,True
+Zonguldak,2020,21.44,95.0,Traffic-Urban,41.45,31.79,False,True
+Zonguldak,2021,21.98,94.0,Traffic-Urban,41.45,31.79,False,True
+Zonguldak,2022,19.39,91.0,Traffic-Urban,41.45,31.79,False,True
+Zonguldak,2023,13.52,95.0,Traffic-Urban,41.45,31.79,False,True
+Zonguldak,2024,14.32,96.0,Traffic-Urban,41.45,31.79,False,True
